@@ -1,1 +1,1 @@
-![Screenshot](assets/SS1 (1).jpeg)
+![Screenshot](assets/ss1.jpeg)
